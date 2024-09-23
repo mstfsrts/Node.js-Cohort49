@@ -1,0 +1,11 @@
+{
+  "name": "hackyourtemperature",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}
